@@ -1,5 +1,4 @@
-[web.html](https://github.com/user-attachments/files/26238315/web.html)![gymback](https://github.com/user-attachments/assets/fd522ed6-db93-4fcd-b136-03334460bb10)
-[Uploading we
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
